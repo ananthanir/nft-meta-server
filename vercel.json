@@ -1,3 +1,5 @@
 {
-    "routes": [{ "src": "/(?<id>[^/]+)", "dest": "/api/$id" }]
-}
+    "rewrites": [
+      { "source": "/:path*", "destination": "/api/:path*" }
+    ]
+  }
