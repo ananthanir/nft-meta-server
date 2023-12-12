@@ -6,7 +6,6 @@ module.exports = async (req, res) => {
         const { id } = req.query;
         res.json(JSON.parse(JSON.stringify(MetaDataSet[id])))
     } else {
-        const { id } = req.query;
-        res.json(JSON.parse(JSON.stringify(MetaDataSet[id])))
+        return res.redirect(301, `https://opensea.io/assets/matic/0xf9ca13e465C35d8074973E62fcfDC062BF8A62Cb/${id}`);
     }   
 }
