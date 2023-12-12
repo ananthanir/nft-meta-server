@@ -1,5 +1,37 @@
 [
     {
+        "description": "A BlockHash LIVE participation token is a digital asset that symbolizes your attendance at the esteemed BlockHash LIVE summit. This event, held on the bleeding edge of the blockchain industry, gathers the foremost experts and innovators in the field to share their knowledge and insights. By owning a BlockHash LIVE participation token, you can proudly display your participation in this exclusive gathering and demonstrate your commitment to staying at the forefront of the rapidly evolving world of blockchain technology.",
+        "external_url": "https://kba.ai",
+        "image": "https://gateway.pinata.cloud/ipfs/QmStboGqR1vXwkhLuSe8ECaTDBwA5HU4H3JeyVQi3KD1o2",
+        "name": "BlockHash LIVE",
+        "attributes": [
+        {
+                "trait_type": "Sixth Edition",
+                "value": "2023"
+            },
+            {
+                "trait_type": "Goal",
+                "value": "Networking"
+            },
+            {
+                "trait_type": "Quest",
+                "value": "Exploring Pathways"
+            },
+            {
+                "trait_type": "Class",
+                "value": "Tech Conference"
+            },
+            {
+                "trait_type": "Genre",
+                "value": "Annual"
+            },
+            {
+                "trait_type": "Nucleus",
+                "value": "Blockchain & Web3"
+            }
+        ]
+    },
+    {
         "description": "The Silver Nimbus conceals an enigmatic Whisper, echoing tales from another realm.",
         "external_url": "https://ananthanir.github.io",
         "image": "https://gateway.pinata.cloud/ipfs/QmW2HT5GDCWw5jLBSB5rzxCqL55Usnwi7JkxxyjWpvgnMh",
